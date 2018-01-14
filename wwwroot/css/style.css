@@ -1,0 +1,13 @@
+.flotante{
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 10px;
+    left:200px;
+    top:200px;
+    padding: 5px;
+    box-shadow: 5px 5px gray;
+}
+
+.invisible{
+    display: none;
+}

@@ -1,0 +1,10 @@
+C:\Users\carlos\Documents\Personales\developer\clienteTS\bin\Debug\netcoreapp2.0\clienteTS.deps.json
+C:\Users\carlos\Documents\Personales\developer\clienteTS\bin\Debug\netcoreapp2.0\clienteTS.runtimeconfig.json
+C:\Users\carlos\Documents\Personales\developer\clienteTS\bin\Debug\netcoreapp2.0\clienteTS.runtimeconfig.dev.json
+C:\Users\carlos\Documents\Personales\developer\clienteTS\bin\Debug\netcoreapp2.0\clienteTS.dll
+C:\Users\carlos\Documents\Personales\developer\clienteTS\bin\Debug\netcoreapp2.0\clienteTS.pdb
+C:\Users\carlos\Documents\Personales\developer\clienteTS\obj\Debug\netcoreapp2.0\clienteTS.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\Personales\developer\clienteTS\obj\Debug\netcoreapp2.0\clienteTS.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\Personales\developer\clienteTS\obj\Debug\netcoreapp2.0\clienteTS.AssemblyInfo.cs
+C:\Users\carlos\Documents\Personales\developer\clienteTS\obj\Debug\netcoreapp2.0\clienteTS.dll
+C:\Users\carlos\Documents\Personales\developer\clienteTS\obj\Debug\netcoreapp2.0\clienteTS.pdb
